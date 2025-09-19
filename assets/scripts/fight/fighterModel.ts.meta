@@ -1,0 +1,13 @@
+{
+  "ver": "4.0.22",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "c579c2a3-0843-44b4-9da2-51f73712f60a",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "importAsPlugin": false,
+    "moduleId": "project:///assets/scripts/fight/fighterModel.js",
+    "simulateGlobals": []
+  }
+}

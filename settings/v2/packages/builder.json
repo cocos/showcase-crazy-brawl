@@ -1,0 +1,28 @@
+{
+  "projectSetting": {},
+  "__version__": "1.2.9",
+  "textureCompressConfig": {
+    "userPreset": {
+      "presetId1636368331477": {
+        "name": "presetId1636368331477",
+        "options": {
+          "miniGame": {
+            "png": 80
+          },
+          "web": {
+            "png": 80
+          },
+          "android": {
+            "png": 80
+          },
+          "ios": {
+            "png": 80
+          },
+          "pc": {
+            "png": 80
+          }
+        }
+      }
+    }
+  }
+}

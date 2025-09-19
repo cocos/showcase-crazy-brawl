@@ -1,0 +1,76 @@
+{
+  "ver": "2.1.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "d7f6980a-c646-4694-8eaf-5b52fdae0b08",
+  "files": [],
+  "subMetas": {
+    "38de4": {
+      "importer": "gltf-mesh",
+      "uuid": "d7f6980a-c646-4694-8eaf-5b52fdae0b08@38de4",
+      "displayName": "",
+      "id": "38de4",
+      "name": "attckRing01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "ea6e2": {
+      "importer": "gltf-material",
+      "uuid": "d7f6980a-c646-4694-8eaf-5b52fdae0b08@ea6e2",
+      "displayName": "",
+      "id": "ea6e2",
+      "name": "DefaultMaterial.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f1844": {
+      "importer": "gltf-scene",
+      "uuid": "d7f6980a-c646-4694-8eaf-5b52fdae0b08@f1844",
+      "displayName": "",
+      "id": "f1844",
+      "name": "attckRing01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "redirect": "d7f6980a-c646-4694-8eaf-5b52fdae0b08@f1844",
+    "assetFinder": {
+      "meshes": [
+        "d7f6980a-c646-4694-8eaf-5b52fdae0b08@38de4"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "d7f6980a-c646-4694-8eaf-5b52fdae0b08@ea6e2"
+      ],
+      "scenes": [
+        "d7f6980a-c646-4694-8eaf-5b52fdae0b08@f1844"
+      ]
+    },
+    "legacyFbxImporter": true
+  }
+}
