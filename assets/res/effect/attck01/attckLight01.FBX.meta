@@ -1,0 +1,76 @@
+{
+  "ver": "2.1.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "ffd79c41-15f9-4c4e-9671-e69113a4bf70",
+  "files": [],
+  "subMetas": {
+    "eb47c": {
+      "importer": "gltf-mesh",
+      "uuid": "ffd79c41-15f9-4c4e-9671-e69113a4bf70@eb47c",
+      "displayName": "",
+      "id": "eb47c",
+      "name": "attckLight01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "ea6e2": {
+      "importer": "gltf-material",
+      "uuid": "ffd79c41-15f9-4c4e-9671-e69113a4bf70@ea6e2",
+      "displayName": "",
+      "id": "ea6e2",
+      "name": "DefaultMaterial.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7bd90": {
+      "importer": "gltf-scene",
+      "uuid": "ffd79c41-15f9-4c4e-9671-e69113a4bf70@7bd90",
+      "displayName": "",
+      "id": "7bd90",
+      "name": "attckLight01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "redirect": "ffd79c41-15f9-4c4e-9671-e69113a4bf70@7bd90",
+    "assetFinder": {
+      "meshes": [
+        "ffd79c41-15f9-4c4e-9671-e69113a4bf70@eb47c"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "ffd79c41-15f9-4c4e-9671-e69113a4bf70@ea6e2"
+      ],
+      "scenes": [
+        "ffd79c41-15f9-4c4e-9671-e69113a4bf70@7bd90"
+      ]
+    },
+    "legacyFbxImporter": true
+  }
+}

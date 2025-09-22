@@ -1,0 +1,13 @@
+{
+  "ver": "4.0.22",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "370a0ece-271c-4da4-bd3c-574db75ca5c2",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "importAsPlugin": false,
+    "moduleId": "project:///assets/scripts/fight/follow.js",
+    "simulateGlobals": []
+  }
+}
